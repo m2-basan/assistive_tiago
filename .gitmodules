@@ -1,0 +1,12 @@
+[submodule "ssvar_gazebo_plugins"]
+	path = ssvar_gazebo_plugins
+	url = git@github.com:Assistive-Robotics-Lab/ssvar_gazebo_plugins.git
+	branch = main
+[submodule "aal_studio_models"]
+	path = aal_studio_models
+	url = git@github.com:Assistive-Robotics-Lab/aal_studio_models.git
+	branch = main
+[submodule "ssvar_demo"]
+	path = ssvar_demo
+	url = git@github.com:Assistive-Robotics-Lab/ssvar_demo.git
+	branch = main
